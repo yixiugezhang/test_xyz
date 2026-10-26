@@ -5,5 +5,5 @@ A nicely (IMO) formatted cheat sheet for the fish shell.
 It's just `latex`, nothing fancy. If you're on Linux, you can probably do `pdflatex cheatsheet.tex`
 if you have latex installed.
 
-## Contributing
+## How to contribute
 Please feel free to submit pull requests with corrections, additions, and other improvements.
